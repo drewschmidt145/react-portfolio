@@ -41,7 +41,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Tailwind"],
-    website: "",
+    website: "drewschmidt.com",
     github: "https://github.com/drewschmidt145/react-portfolio",
   },
 ];
