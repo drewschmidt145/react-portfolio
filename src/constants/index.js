@@ -23,8 +23,8 @@ export const PROJECTS = [
     description:
       "Online Weather app that uses an API to fetch weather data for any city in the world.",
     technologies: ["HTML", "CSS", "React", "Node.js"],
-    website: "",
-    github: "www.github.com/drewschmidt145/weather-app",
+    website: "https://drewschmidt145.github.io/weather-app/",
+    github: "https://github.com/drewschmidt145/weather-app",
   },
   {
     title: "Task Management App",
@@ -32,8 +32,8 @@ export const PROJECTS = [
     description:
       "App thats allows users to create, view, and edit tasks for the user to keep track of their daily assignments.",
     technologies: ["HTML", "CSS", "React", "Tailwind"],
-    website: "",
-    github: "www.github.com/drewschmidt145/weather-app",
+    website: "https://drewschmidt145.github.io/react-todo/",
+    github: "https://github.com/drewschmidt145/react-todo",
   },
   {
     title: "Portfolio Website",
@@ -42,7 +42,7 @@ export const PROJECTS = [
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Tailwind"],
     website: "",
-    github: "www.github.com/drewschmidt145/weather-app",
+    github: "https://github.com/drewschmidt145/react-portfolio",
   },
 ];
 
